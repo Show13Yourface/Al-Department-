@@ -1,0 +1,7 @@
+{
+  "name": "MBSTU Economics Digital Hub",
+  "description": "A comprehensive digital management system for the Department of Economics at Mawlana Bhashani Science and Technology University, featuring universal login, library management, and Excel integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
